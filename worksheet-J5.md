@@ -5,7 +5,7 @@ Object oriented programming pairs closely with GUIs because both OOP and GUIs wo
 WindowAdapter is an example of multithreading where when the final window is closed, main is also closed. WindowListener performs the same actions as WindowAdapter, but here, even when main has closed, the program persists. 
 
 ## 3. What does the program below produce for a GUI? (You can sketch and upload an image or describe it – do this without running the program to make sure you understand what each line below is doing).
-![diaagramj5](diagramj5.jpg)
+![diagramj5.jpg](https://github.com/aneeshakandala/aneeshakandala-worksheet-J5/blob/main/diagramj5.jpg?raw=true))
 
 ## 4. Modify the HelloGoodbyeEx2 code to update the number of times the button has been clicked on the button’s label itself. 
 ```
