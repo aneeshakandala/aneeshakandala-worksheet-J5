@@ -256,11 +256,3 @@ public class Password extends JFrame{
 
 ```
 
-
-
-
-//main has finished, but the windows/program persist 
-
-
-S = J frame() renders the window
-to add any functionality: S add*(...)  <-- EVENT 
